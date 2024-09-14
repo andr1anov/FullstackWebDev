@@ -6,7 +6,7 @@
     <title>About Us</title>
 </head>
 <body>
-    <h1>About Us Page</h1>
+    <h1>About Us</h1>
     <a href="{{ route('home') }}">Home</a> |
     <a href="{{ route('services') }}">Services</a> |
     <a href="{{ route('contact') }}">Contact Us</a> |
